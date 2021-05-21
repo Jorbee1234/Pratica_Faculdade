@@ -30,7 +30,7 @@ public class prof_soma implements ActionListener {
 		
 		painel = new JPanel();
 		painel.setBorder(BorderFactory.createEmptyBorder(30,30,10,30));
-		painel.setLayout(new GridLayout(0,0));
+		painel.setLayout(new GridLayout(0,1));
 	
 		//Componentes da tela
 		lbltitulo = new JLabel("Calculadora");
